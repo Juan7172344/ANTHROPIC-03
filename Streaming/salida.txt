@@ -1,0 +1,24 @@
+﻿texto: calma caf? el lista despacio el ma?ana el r?pido respuesta Bogot? tinto c?digo hola claude lista
+stop_reason: stop_sequence
+input_tokens: 4000
+output_tokens: 418
+texto: Bogot? r?pido tinto despacio compila compila tinto prueba con responde
+stop_reason: max_tokens
+input_tokens: 2168
+output_tokens: 30
+texto: con Bogot? modelo
+stop_reason: max_tokens
+input_tokens: 3409
+output_tokens: 618
+texto: responde hola gracias el calma servidor la gracias hola
+stop_reason: stop_sequence
+input_tokens: 3670
+output_tokens: 688
+texto: despacio compila llover? prueba hola Bogot?
+stop_reason: max_tokens
+input_tokens: 1089
+output_tokens: 649
+texto: ?listo? est? la con c?digo modelo prueba gracias caf? lista respuesta en compila ma?ana hola est? modelo
+stop_reason: end_turn
+input_tokens: 372
+output_tokens: 735
