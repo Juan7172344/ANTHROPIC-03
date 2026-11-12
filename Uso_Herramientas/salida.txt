@@ -1,0 +1,19 @@
+﻿tool_result toolu_01 564795
+tool_result toolu_02 26 ░C
+tool_result toolu_03 error: herramienta desconocida: traductor
+tool_result toolu_04 error: herramienta desconocida: traductor
+tool_result toolu_05 26 ░C
+tool_result toolu_06 159986
+tool_result toolu_07 error: herramienta desconocida: traductor
+tool_result toolu_08 490
+tool_result toolu_09 165816
+tool_result toolu_10 1381
+tool_result toolu_11 1
+tool_result toolu_12 2
+tool_result toolu_13 333
+tool_result toolu_14 error: ciudad desconocida: Medell?n
+tool_result toolu_15 error: herramienta desconocida: traductor
+tool_result toolu_16 26 ░C
+tool_result toolu_17 -217
+final: Listo, revis? 17 resultados.
+resumen: 17 llamadas, 5 errores
